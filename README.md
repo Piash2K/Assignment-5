@@ -1,4 +1,3 @@
-
 # 📌 Assignment-5 — Responsive Web Project
 
 Welcome to **Assignment-5**, a static web project built with **HTML**, **Tailwind CSS**, and **JavaScript**. This assignment demonstrates your skills in modern front-end web development, responsive design, and interactive UI.
